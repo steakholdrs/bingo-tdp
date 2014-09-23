@@ -6,7 +6,7 @@ Update: I mentioned previously that I used a boilerplate to get the app started.
 ## How to get started
 First, clone this repository:
 
-```
+```sh
 # Navigate to where you want to clone to
 git clone https://github.com/steakholdrs/bingo-tdp
 ```
@@ -53,7 +53,7 @@ meteor list
 
 ### Folder structure
 
-```
+```sh
 lib/                    # <- any common code for client/server. 
 lib/environment.js      # <- general configuration
 lib/methods.js          # <- Meteor.method definitions
